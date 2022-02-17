@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Keyboard</title>
+    <link rel="stylesheet" href="keyboard.css">
+</head>
+
+<body>
+    <!-- row1 -->
+    <div class="layout fl">
+        <div class="row1 fl">Ecs</div>
+        <div class="row1 mr">F1</div>
+        <div class="row1 mr">F2</div>
+        <div class="row1 mr">F3</div>
+        <div class="row1 mr">F4</div>
+        <div class="row1 mr">F5</div>
+        <div class="row1 mr">F6</div>
+        <div class="row1 mr">F7</div>
+        <div class="row1 mr">F8</div>
+        <div class="row1 mr">F9</div>
+        <div class="row1 mr">F10</div>
+        <div class="row1 mr">F11</div>
+        <div class="row1 mr">F12</div>
+        <div class="row1 mr">Prtsc</div>
+        <div class="row1 mr">Pause</div>
+        <div class="row1 mr">Del</div>
+        <div class="row1 fr">Home</div>
+        <!-- </div> -->
+        <!-- row2 -->
+        <!-- <div class="layout"> -->
+        <div class="row2 fl">~</div>
+        <div class="row2 mr">1</div>
+        <div class="row2 mr">2</div>
+        <div class="row2 mr">3</div>
+        <div class="row2 mr">4</div>
+        <div class="row2 mr">5</div>
+        <div class="row2 mr">6</div>
+        <div class="row2 mr">7</div>
+        <div class="row2 mr">8</div>
+        <div class="row2 mr">9</div>
+        <div class="row2 mr">0</div>
+        <div class="row2 mr">-</div>
+        <div class="row2 mr">+</div>
+        <div class="row2 mr">Back</div>
+        <div class="row2 fl">Space</div>
+        <!-- </div> -->
+        <!-- <div class="row2 fl mr">Ecs</div>
+    <div class="row2 fl mr">Ecs</div>
+    <div class="row2 fl mr">Ecs</div>
+    <div class="row2 fr">Ecs</div> -->
+        <!-- row3 -->
+        <!-- <div class="layout"> -->
+        <div class="row3 fl">Tab</div>
+        <div class="row3 fl mr">Q</div>
+        <div class="row3 fl mr">W</div>
+        <div class="row3 fl mr">E</div>
+        <div class="row3 fl mr">R</div>
+        <div class="row3 fl mr">T</div>
+        <div class="row3 fl mr">Y</div>
+        <div class="row3 fl mr">U</div>
+        <div class="row3 fl mr">I</div>
+        <div class="row3 fl mr">O</div>
+        <div class="row3 fl mr">P</div>
+        <div class="row3 fl mr">{</div>
+        <div class="row3 fl mr">}</div>
+        <div class="row3 fr mr">|</div>
+        <!-- </div> -->
+        <!-- row4 -->
+        <!-- <div class="layout"> -->
+        <div class="row4 fl">Caplock</div>
+        <div class="row4 fl mr">A</div>
+        <div class="row4 fl mr">S</div>
+        <div class="row4 fl mr">D</div>
+        <div class="row4 fl mr">F</div>
+        <div class="row4 fl mr">G</div>
+        <div class="row4 fl mr">H</div>
+        <div class="row4 fl mr">J</div>
+        <div class="row4 fl mr">K</div>
+        <div class="row4 fl mr">L</div>
+        <div class="row4 fl mr">:</div>
+        <div class="row4 fl mr">"</div>
+        <div class="row4 fr mr">Enter</div>
+        <!-- </div> -->
+        <!-- row5 -->
+        <div class="row5 fl">Shift</div>
+        <div class="row5 fl mr">Z</div>
+        <div class="row5 fl mr">X</div>
+        <div class="row5 fl mr">C</div>
+        <div class="row5 fl mr">V</div>
+        <div class="row5 fl mr">B</div>
+        <div class="row5 fl mr">N</div>
+        <div class="row5 fl mr">M</div>
+        <div class="row5 fl mr"></div>
+        <div class="row5 fl mr">></div>
+        <div class="row5 fl mr">?</div>
+        <div class="row5 fr mr">Shift</div>
+        <!-- </div> -->
+        <!-- row6 -->
+        <div class="row6 fl">Ctrl</div>
+        <div class="row6 fl mr">Fn</div>
+        <div class="row6 fl mr">Window</div>
+        <div class="row6 fl mr">Alt</div>
+        <div class="row6 fl mr">S</div>
+        <div class="row6 fl">P</div>
+        <div class="row6 fl">A</div>
+        <div class="row6 fl">C</div>
+        <div class="row6 fl">E</div>
+        <div class="row6 fl mr">Alt Gr</div>
+        <div class="row6 fl mr">Notes</div>
+        <div class="row6 fl mr">Ctrl</div>
+        <div class="row6 fl mr">Left</div>
+        <div class="row6 fl mr">Up</div>
+        <div class="row6 fr mr">Right</div>
+    </div>
+    <!-- NUMBERING  -->
+    <div class="layout2 fr">
+        <!-- row1 -->
+        <div class="c1 bg1 fl">Pg Up</div>
+        <div class="c1 bg1 mr">Pg Dn</div>
+        <div class="c1 bg1 mr">End</div>
+        <div class="c1 bg1 mr">On</div>
+        <!-- row2 -->
+        <div class="c1 bg2 fl">NumLock</div>
+        <div class="c1 bg2 mr">/</div>
+        <div class="c1 bg2 mr">*</div>
+        <div class="c1 bg2 mr">-</div>
+        <!-- row3 -->
+        <div class="c1 bg3 fl">7</div>
+        <div class="c1 bg3 mr">8</div>
+        <div class="c1 bg3 mr">9</div>
+        <div class="c1 bg3 mr">+</div>
+        <!-- row4 -->
+        <div class="c1 bg4 fl">4</div>
+        <div class="c1 bg4 mr">5</div>
+        <div class="c1 bg4 mr">6</div>
+        <div class="c1 bg4 mr">+</div>
+        <!-- row5 -->
+        <div class="c1 bg5 fl">1</div>
+        <div class="c1 bg5 mr">2</div>
+        <div class="c1 bg5 mr">3</div>
+        <div class="c1 bg5 mr">Enter</div>
+        <!-- row6 -->
+        <div class="c1 bg6 fl">0</div>
+        <div class="c1 bg6 mr"></div>
+        <div class="c1 bg6 mr">.</div>
+        <div class="c1 bg6 mr">Enter</div>
+    </div>
+</body>
+
+</html>
