@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        * {
+            background-color: burlywood;
+        }
+
+        .bigger {
+            margin: auto;
+            margin-top: 5%;
+            background-color: black;
+            height: 500px;
+            width: 400px;
+            border-radius: 50%;
+            position: relative;
+        }
+
+        .smaller {
+            margin-top: 13%;
+            margin-left: 12%;
+            background-color: white;
+            width: 300px;
+            height: 450px;
+            border-radius: 50%;
+            position: absolute;
+        }
+
+        .s1 {
+            margin-left: 80%;
+            background-color: black;
+            width: 190px;
+            height: 200px;
+            border-radius: 50%;
+        }
+
+        .s2 {
+            margin: 0%;
+            margin-top: -50%;
+            margin-left: -23%;
+            background-color: black;
+            width: 190px;
+            height: 200px;
+            border-radius: 50%;
+        }
+
+        .sq {
+            margin: auto;
+            margin-top: 60%;
+            margin-left: -5px;
+            background-color: black;
+            height: 100px;
+            width: 90px;
+        }
+
+        /* .lk {
+            margin: auto;
+            margin-top: -55%;
+            height: 100px;
+            width: 80px;
+            background-color: white;
+            border-radius: 50%;
+            border: 10px solid;
+            border-color: black;
+        } */
+        .lk {
+            margin: auto;
+            margin-top: 60px;
+            margin-left: 105px;
+            /* margin-right: 1px; */
+            width: 80px;
+            height: 100px;
+            background-color: white;
+            border-radius: 50%;
+            border: 5px solid black;
+        }
+
+        .rc {
+            width: 130px;
+            height: 50px;
+            background-color: black;
+            margin: auto;
+            margin-top: 55%;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="bigger">
+        <div class="smaller">
+            <div class="lk">
+                <div class="sq"></div>
+            </div>
+            <div class="rc"></div>
+        </div>
+        <div class="s1"></div>
+        <div class="s2"></div>
+        <!-- <div class="lk"></div> -->
+    </div>
+    <!-- <div class="lk"></div> -->
+</body>
+
+</html>
