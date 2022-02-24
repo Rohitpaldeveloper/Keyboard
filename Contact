@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact</title>
+    <style>
+        * {
+            margin: 0;
+        }
+
+        .pr {
+            margin-top: 8%;
+            margin-left: 37%;
+            width: 400px;
+            height: 430px;
+            background-color: teal;
+            position: absolute;
+        }
+
+        .c {
+            margin-top: 15%;
+            margin-left: 13%;
+            width: 295px;
+            height: 315px;
+            background-color: white;
+            position: absolute;
+        }
+
+        .c1 {
+            margin-top: 12%;
+            margin-left: 15%;
+            border-left: 15px double teal;
+            width: 200px;
+            height: 235px;
+            background-color: teal;
+            position: absolute;
+
+        }
+
+        .c2 {
+            margin-top: -87%;
+            margin-left: 13%;
+            width: 150px;
+            height: 180px;
+            background-color: white;
+            position: absolute;
+        }
+
+        .hu {
+            margin: auto;
+            margin-top: 65px;
+            margin-left: 25px;
+            height: 100px;
+            width: 100px;
+            background-color: teal;
+            border-radius: 100px 100px 0px 0px;
+            position: absolute;
+        }
+
+        .ci {
+            margin: auto;
+            margin-top: -45px;
+            height: 50px;
+            width: 50px;
+            border: 10px solid white;
+            border-radius: 50%;
+            background-color: teal;
+            position: relative;
+        }
+
+        fl {
+            float: left;
+        }
+
+        .mi {
+            margin-top: 28px;
+            margin-left: -50px;
+            background-color: teal;
+            width: 50px;
+            height: 26px;
+            border: 7px solid white;
+            border-radius: 47%;
+            position: relative;
+        }
+    </style>
+</head>
+
+<body>
+    <!-- <div class="mi"></div>
+    <div class="mi fl"></div>
+    <div class="mi"></div> -->
+    <div class="pr">
+        <div class="c">
+            <!-- <div class="mi"></div>
+            <div class="mi fl"></div>
+            <div class="mi"></div> -->
+            <div class="c1">
+                <div class="mi"></div>
+                <div class="mi fl"></div>
+                <div class="mi"></div>
+                <div class="c2">
+                    <!-- <div class="ci"></div> -->
+                    <div class="hu">
+                        <div class="ci"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- <div class="c"></div> -->
+</body>
+
+</html>
